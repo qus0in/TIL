@@ -1,6 +1,6 @@
 ---
 name: HUMOR
-about: 개발자를 웃겨라
+about: 개발자를 울려라
 title: "[제목] 날짜"
 labels: 데브옵스, 프론트엔드
 assignees: ''
